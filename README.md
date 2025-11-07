@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Product Pricing Analysis  
 
-![Dashboard Preview](images/dashboard_page_1.png)
+![Dashboard Preview]([https://lookerstudio.google.com/s/qlUFPHixQDM])
 
 **Author:** Tapan Chandra Chud Malik  
 **Last Updated:** November 2025  
@@ -143,26 +143,6 @@ The **Looker Studio Dashboard** visualizes key pricing and stock metrics for fas
 3. **Stock Health** – > 80 % availability indicates efficient supply chain.  
 4. **Shipping Preference** – “Free” and “Standard” shipping dominate; opportunity for premium shipping upsell.  
 5. **Condition Mix** – Predominantly *New* items; refurbished stock provides secondary margin channel.  
-
----
-
-## 🗂️ Project Files & Structure  
-
-E-Commerce_Product_Pricing_Analysis
-├── data/
-│ └── Electronics_Products_Pricing_Data.xlsx
-├── dashboard/
-│ └── Electronics_Products_Dashboard.pdf
-├── report/
-│ └── E-Commerce_Product_Pricing_Report.pdf
-├── deck/
-│ └── E-Commerce_Pricing_Dashboard_Deck.pptx
-├── reference/
-│ └── Medium_Article_Link.txt
-├── images/
-│ └── dashboard_page_1.png
-└── README.md
-
 
 ---
 
