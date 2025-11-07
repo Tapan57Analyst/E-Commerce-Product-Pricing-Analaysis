@@ -54,11 +54,7 @@ The goal of this project is to:
 - Category  
 - Availability  
 - Shipping Type  
-- Condition  
-
-### **Source Reference**  
-Based on:  
-> [Omoj Insight — *Sample Project for Data Analyst Using Google Sheet and Google Looker Studio*](https://omojinsight.medium.com/sample-project-for-data-analyst-using-google-sheet-and-google-looker-studio-f91007ead685)
+- Condition 
 
 ---
 
